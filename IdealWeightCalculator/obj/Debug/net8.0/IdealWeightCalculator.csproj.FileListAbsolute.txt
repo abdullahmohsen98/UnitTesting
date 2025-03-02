@@ -1,0 +1,15 @@
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\bin\Debug\net8.0\IdealWeightCalculator.exe
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\bin\Debug\net8.0\IdealWeightCalculator.deps.json
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\bin\Debug\net8.0\IdealWeightCalculator.runtimeconfig.json
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\bin\Debug\net8.0\IdealWeightCalculator.dll
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\bin\Debug\net8.0\IdealWeightCalculator.pdb
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.AssemblyInfoInputs.cache
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.AssemblyInfo.cs
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.csproj.CoreCompileInputs.cache
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.sourcelink.json
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.dll
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\refint\IdealWeightCalculator.dll
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.pdb
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\IdealWeightCalculator.genruntimeconfig.cache
+E:\Study\.net\UnitTesting\GitRepo\IdealWeightCalculator\obj\Debug\net8.0\ref\IdealWeightCalculator.dll
